@@ -1,2 +1,3 @@
 # hello-world
-First repository 
+Learning a bit about computer science with Harvard's CS50 course 
+
